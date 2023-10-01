@@ -8,12 +8,12 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'OBox',
+  name: 'Box'
 });
 </script>
 
 <style scoped>
 .box {
-  background-color: #faf0ca;
+  background: #FAF0CA;
 }
 </style>
