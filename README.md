@@ -7,21 +7,6 @@
 
 <h1 align="center">Alura Tracker</h1>
 
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/RafaelCava/alura-tracker?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/RafaelCava/alura-tracker?color=56BEB8">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/RafaelCava/alura-tracker?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/RafaelCava/alura-tracker?color=56BEB8">
-
-  <img alt="Github issues" src="https://img.shields.io/github/issues/RafaelCava/alura-tracker?color=56BEB8" />
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/RafaelCava/alura-tracker?color=56BEB8" />
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/RafaelCava/alura-tracker?color=56BEB8" />
-</p>
 
 <!-- Status -->
 
