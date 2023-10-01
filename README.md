@@ -7,7 +7,6 @@
 
 <h1 align="center">Alura Tracker</h1>
 
-
 <!-- Status -->
 
 <h4 align="center"> 
@@ -59,7 +58,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/RafaelCava/alura-tracker
+$ git clone https://github.com/ManoeldeCastro/alura-track.git
 
 # Entre na pasta
 $ cd alura-tracker
